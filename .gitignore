@@ -1,0 +1,6 @@
+.git
+.idea
+.nuget
+packages
+Scheduler.iml
+target
